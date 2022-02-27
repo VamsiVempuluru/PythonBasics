@@ -13,3 +13,19 @@ print("your name is",name,"your age is",age,"your gpa is",gpa)
 
 print(f"your name is {name} your age is {age} your gpa is {gpa}")
 
+"""
+INPUT
+Enter your name: vamsi
+Enter your age: 21
+Enter your gpa: 7
+
+
+OUTPUT
+your name is vamsi
+your age is 21
+your gpa is 7.0
+your name is vamsi your age is 21 your gpa is 7.0
+your name is vamsi your age is 21 your gpa is 7.0
+your name is vamsi your age is 21 your gpa is 7.0
+
+"""
